@@ -31,9 +31,9 @@ Benutzerrechte, Prüfungen und Fehlerbehebung. Für Python-Benutzerinstallation,
 Pakete in `.venv` und den normalen Betrieb sind üblicherweise keine
 Administratorrechte erforderlich.
 
-## Welche Neuerungen sind enthalten?
+## Welche Funtionen sind enthalten?
 
-Die korrigierte Grafikfunktion von **main_export.py 1.2.2** ist vollständig enthalten:
+Die Grafikfunktionen von **main_export.py 1.2.2** ist vollständig enthalten:
 
 - schematische Spektralfarben **unter der Messkurve**;
 - dunkles Violett für UV und zum rechten Rand dunkler werdendes Rot für NIR;
